@@ -34,17 +34,17 @@ VoiceroidTalkerはコマンドプロンプトの実行形式ファイルを介�
 
 ##実行ファイルの使い方
 1. コマンドプロンプトからbinフォルダに移動し、  
-\>VoiceroidTServer.exe [ボイスロイド名:Yukari, Maki, Zunko, Akane, Aoi, Koh]  
+\>VoiceroidTServer.exe \[ボイスロイド名:Yukari, Maki, Zunko, Akane, Aoi, Koh\]  
 (例: >VoiceroidTServer.exe Yukari)  
 と実行します。
 
 2. コマンドプロンプトからbinフォルダに移動し、  
-\>VoiceroidTClient.exe [ボイスロイド名:Yukari, Maki, Zunko, Akane, Aoi, Koh] [メッセージ部分]  
+\>VoiceroidTClient.exe \[ボイスロイド名:Yukari, Maki, Zunko, Akane, Aoi, Koh\] \[メッセージ部分\]  
 (例:> VoiceroidTClient.exe Yukari こんにちは;1.0;1.2;1.0;2.0)  
 と実行します。
 
 メッセージ部分は、  
-[メッセージ];[音量(0.0-2.0)];[話速(0.5-4.0)];[高さ(0.5-2.0)];[抑揚(0.0-2.0)]  
+\[メッセージ\];\[音量(0.0-2.0)\];\[話速(0.5-4.0)\];\[高さ(0.5-2.0)\];\[抑揚(0.0-2.0)\]  
 という風に、セミコロンで分けます。メッセージ以降は省略可能です。
 
 
