@@ -13,7 +13,7 @@ https://dl.dropboxusercontent.com/u/22995097/VoiceroidTalker.zip
 ##動作環境・必要なパッケージ等
 
 * Windows 7  
-※Windows8以降はUIコントロールの仕組みが変わっているので、まず動かないと思ってください。もしwindows8や10でで動きましたら、動作報告をいただけると助かります。
+※Windows8以降はUIコントロールの仕組みが変わっているので、まず動かないと思ってください。もしwindows8や10で動きましたら、動作報告をいただけると助かります。
 
 * .NET Framework 4.5  
 ※ない場合は http://www.microsoft.com/ja-jp/download/details.aspx?id=30653 からダウンロードしてください。
