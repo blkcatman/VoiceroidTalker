@@ -5,11 +5,14 @@
 VoiceroidTalkerはコマンドプロンプトの実行形式ファイルを介して、VOICEROIDへメッセージを送信し、音声再生を操作することができます。  
 同時に、VOICEROID＋ EXシリーズ以降の音量、速度、高さ、抑揚のパラメータ調節を行うことができます。
 
+コンパイル済みのファイルはUnityのプロジェクトファイルと同梱したものを、Dropboxにアップロードしています。
+https://dl.dropboxusercontent.com/u/22995097/VoiceroidTalker.zip
+
 
 ##動作環境・必要なパッケージ等
 
 * Windows 7  
-※Windows8以降はUIコントロールの仕組みが変わっているので、まず動かないと思ってください。
+※Windows8以降はUIコントロールの仕組みが変わっているので、まず動かないと思ってください。もしwindows8や10でで動きましたら、動作報告をいただけると助かります。
 
 * .NET Framework 4.5  
 ※ない場合は http://www.microsoft.com/ja-jp/download/details.aspx?id=30653 からダウンロードしてください。
