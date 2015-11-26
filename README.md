@@ -7,7 +7,7 @@ VoiceroidTalkerはコマンドプロンプトの実行形式ファイルを介�
 
 コンパイル済みのファイルはUnityのプロジェクトファイルと同梱したものを、Dropboxにアップロードしています。  
 パスワードは半角で、「voiceroid」です。実行形式ファイルを含んでいるため、ダウンロード時にブラウザがブロックする  
-可能性があります  
+可能性があります。  
 https://dl.dropboxusercontent.com/u/22995097/VoiceroidTalker.zip
 
 
